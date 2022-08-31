@@ -1,1 +1,1 @@
-# cookbook-wordpress
+# Template Method
