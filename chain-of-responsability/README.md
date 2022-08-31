@@ -1,1 +1,1 @@
-# cookbook-wordpress
+# Chain Of Responsability
