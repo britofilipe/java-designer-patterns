@@ -1,1 +1,1 @@
-# cookbook-wordpress
+# Strategy
