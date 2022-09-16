@@ -1,4 +1,4 @@
-package br.com.estudo.loja;
+package br.com.estudo.loja.orcamento;
 
 import java.math.BigDecimal;
 
